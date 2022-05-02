@@ -1,0 +1,13 @@
+{
+  "name": "my_landing_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KovacsLaszloZsolt/my_landing_page.git",
+  "author": "Kovacs Laszlo <laszlo.zs.kovacs@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "",
+    "start:dev": ""
+  }
+}
